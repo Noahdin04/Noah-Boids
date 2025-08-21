@@ -1,0 +1,23 @@
+# Build artifacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+
+# VS Code settings
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# vcpkg libraries
+/vcpkg/installed/
+
+# OS files
+Thumbs.db
+.DS_Store
+*.swp
+*.log
